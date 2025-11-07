@@ -1,0 +1,7 @@
+{
+  "name": "Manetar",
+  "description": "Manetar is a mobile-first social learning application for mentors and learners, featuring video libraries, training modules, and an interactive social feed, enhanced with Gemini AI capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
